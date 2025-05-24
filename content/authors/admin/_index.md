@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: PC Kemper
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Philipp C.
+last_name: Kemper
 
 # Status emoji
 status:
@@ -20,31 +20,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Duisburg-Essen
+    url: https://www.uni-due.de/de/index.php
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:philipp.kemper@uni-due.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: "custom/bluesky"
+    url: https://bsky.app/profile/philippck.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Leetream
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/philipp-kemper-2159331ab/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-8559-1287
 
 interests:
   - Artificial Intelligence
