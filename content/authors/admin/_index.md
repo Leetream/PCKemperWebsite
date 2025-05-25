@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Political Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,14 +33,20 @@ profiles:
   - icon: at-symbol
     url: 'mailto:philipp.kemper@uni-due.de'
     label: E-mail Me
+  - icon: hero/academic-cap
+    url: https://www.uni-due.de/politik/kemper_p.php
+    label: Personal University Profile
 #  - icon: "custom/bluesky"
 #    url: https://bsky.app/profile/philippck.bsky.social
   - icon: brands/github
     url: https://github.com/Leetream
+    label: GitHub Profile
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/philipp-kemper-2159331ab/
+    label: LinkedIn Profile
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-8559-1287
+    label: ORCID Profile
 
 interests:
   - Video Game Simulations
@@ -121,4 +127,4 @@ languages:
 
 ## About Me
 
-Philipp C. Kemper is a PhD candidate in Political Science at the University of Duisburg-Essen, where he works on the use of video games for virtual world simulations in the experimental social sciences. His research interests include video game simulations, virtual world experiments, inequality research, and welfare state research. He also works as a project officer in the ERC funded [POLITSOLID](https://achimgoerres.de/politsolid) project by [Prof. Dr. Achim Goerres](https://achimgoerres.de/).
+Hi, I'm Philipp C. Kemper. I'm a PhD candidate in Political Science at the University of Duisburg-Essen, where I work on the use of video games for virtual world simulations in the experimental social sciences. My research interests include video game simulations, virtual world experiments, inequality research, and welfare state research. I also work as a project officer in the ERC funded [POLITSOLID](https://achimgoerres.de/politsolid) project by [Prof. Dr. Achim Goerres](https://achimgoerres.de/).

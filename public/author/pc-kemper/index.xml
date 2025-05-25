@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PC Kemper | Hugo Academic CV Theme</title>
+    <title>PC Kemper | Philipp C Kemper</title>
     <link>http://localhost:1313/author/pc-kemper/</link>
       <atom:link href="http://localhost:1313/author/pc-kemper/index.xml" rel="self" type="application/rss+xml" />
     <description>PC Kemper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/pc-kemper/avatar_hu_a08196cf99224f15.jpg</url>
+      <url>http://localhost:1313/author/pc-kemper/avatar_hu_6d60be529fddb4cd.JPG</url>
       <title>PC Kemper</title>
       <link>http://localhost:1313/author/pc-kemper/</link>
     </image>
@@ -246,7 +246,7 @@
 
 
 
-&lt;div id=&#34;chart-123486795&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-193475682&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -264,7 +264,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-123486795&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-193475682&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

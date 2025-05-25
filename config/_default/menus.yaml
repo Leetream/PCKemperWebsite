@@ -13,9 +13,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
-  - name: Experience
-    url: experience/
-    weight: 20
   - name: Projects
-    url: projects/
+    url: /#section-collection
+    weight: 20  
+  - name: Experience
+    url: /#section-resume-experience
     weight: 30

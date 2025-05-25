@@ -63,4 +63,30 @@ sections:
     design:
       view: article-grid
       columns: 1
+  - block: collection
+    content:
+      title: Current Projects
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 1
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+      show_skill_icons: true
+      columns: 2
 ---
