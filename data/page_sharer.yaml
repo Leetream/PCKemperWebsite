@@ -1,0 +1,20 @@
+# Hugo Blox
+# Social sharing links
+# Docs: https://docs.hugoblox.com/reference/page-sharer/
+
+links:
+  - id: email
+    url: 'mailto:?subject={title}&body={url}'
+    title: Email
+    icon: hero/at-symbol
+    enable: false
+  - id: linkedin
+    url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
+    title: LinkedIn
+    icon: brands/linkedin
+    enable: false
+  - id: whatsapp
+    url: 'whatsapp://send?text={title}%20{url}'
+    title: WhatsApp
+    icon: brands/whatsapp
+    enable: false

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achim Goerres | Philipp C Kemper</title>
+    <link>http://localhost:1313/author/achim-goerres/</link>
+      <atom:link href="http://localhost:1313/author/achim-goerres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Achim Goerres</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Achim Goerres</title>
+      <link>http://localhost:1313/author/achim-goerres/</link>
+    </image>
+    
+    <item>
+      <title>How the Experience of Public-Service Quality and Corruption Shapes Political Solidarity and Trust: Experimental Evidence from a Novel Virtual-State Approach</title>
+      <link>http://localhost:1313/event/epsa_2025_n2_paper/</link>
+      <pubDate>Thu, 26 Jun 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/epsa_2025_n2_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How the Experience of Public-Service Quality and Corruption Shapes Political Solidarity and Trust: Experimental Evidence from a Novel Virtual-State Approach</title>
+      <link>http://localhost:1313/event/esra_2025_n2_paper/</link>
+      <pubDate>Thu, 17 Jul 2025 13:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/esra_2025_n2_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

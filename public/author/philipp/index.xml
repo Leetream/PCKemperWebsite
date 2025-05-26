@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp | Philipp C Kemper</title>
+    <link>http://localhost:37693/author/philipp/</link>
+      <atom:link href="http://localhost:37693/author/philipp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philipp</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jun 2025 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:37693/media/icon_hu_645fa481986063ef.png</url>
+      <title>Philipp</title>
+      <link>http://localhost:37693/author/philipp/</link>
+    </image>
+    
+    <item>
+      <title>Level up Your Data: A Feasibility Study on Using Video Games for Data Collection in the Experimental Social Sciences</title>
+      <link>http://localhost:37693/event/epsa_2025_feasibility_paper/</link>
+      <pubDate>Thu, 26 Jun 2025 09:30:00 +0000</pubDate>
+      <guid>http://localhost:37693/event/epsa_2025_feasibility_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

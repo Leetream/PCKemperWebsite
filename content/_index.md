@@ -35,34 +35,35 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My PhD revolves around using custom role-playing video games to explore the effects of real-life deprivation experiences on political attitudes. For this, I design video games specifically tailored for conducting behavioural experiments within an immersive and coherent virtual world.
+        My PhD explores the use of video games as virtual simulations of individual real-world experiences in the experimental social sciences. For this, I design role-playing video games specifically tailored for conducting behavioural experiments within an immersive and coherent virtual world. The goal is to understand how video games can be used for experimental manipulations, online data collections, and educational simulations.
         
         My work as a part of the [POLITSOLID](https://achimgoerres.de/politsolid) research team aims to understand the micro-foundations of politcal solidarities in modern european democracies. We use survey experiments, a simulated virtual state, an international panel survey, and field experiments to explain why and when citizens are willing to shoulder costs for public redistribution.
         
         Feel free to contact me anytime 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+#  - block: collection
+#    id: papers
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      view: article-grid
+#      columns: 2
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Upcoming Talks
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 1
+      fill_image: false
+      columns: 2
   - block: collection
     content:
       title: Current Projects
