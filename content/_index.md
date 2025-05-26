@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My PhD revolves around using custom role-playing video games to explore the effects of real-life deprivation experiences on political attitudes. For this, I design video games specifically tailored for conducting behavioural experiments within an immersive and coherent virtual world.
         
-        Please reach out to collaborate 😃
+        My work as a part of the [POLITSOLID](https://achimgoerres.de/politsolid) research team aims to understand the micro-foundations of politcal solidarities in modern european democracies. We use survey experiments, a simulated virtual state, an international panel survey, and field experiments to explain why and when citizens are willing to shoulder costs for public redistribution.
+        
+        Feel free to contact me anytime 😃
     design:
       columns: '1'
   - block: collection
