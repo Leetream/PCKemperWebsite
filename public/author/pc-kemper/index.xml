@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PC Kemper | Philipp C Kemper</title>
-    <link>http://localhost:1313/author/pc-kemper/</link>
-      <atom:link href="http://localhost:1313/author/pc-kemper/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.philippckemper.de/author/pc-kemper/</link>
+      <atom:link href="https://www.philippckemper.de/author/pc-kemper/index.xml" rel="self" type="application/rss+xml" />
     <description>PC Kemper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 13:30:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/pc-kemper/avatar_hu_6d60be529fddb4cd.JPG</url>
+      <url>https://www.philippckemper.de/author/pc-kemper/avatar_hu_6d60be529fddb4cd.JPG</url>
       <title>PC Kemper</title>
-      <link>http://localhost:1313/author/pc-kemper/</link>
+      <link>https://www.philippckemper.de/author/pc-kemper/</link>
     </image>
     
     <item>
       <title>Level up Your Data: A Feasibility Study on Using Video Games for Data Collection in the Experimental Social Sciences</title>
-      <link>http://localhost:1313/event/epsa_2025_feasibility_paper/</link>
+      <link>https://www.philippckemper.de/event/epsa_2025_feasibility_paper/</link>
       <pubDate>Thu, 26 Jun 2025 09:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/epsa_2025_feasibility_paper/</guid>
+      <guid>https://www.philippckemper.de/event/epsa_2025_feasibility_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How the Experience of Public-Service Quality and Corruption Shapes Political Solidarity and Trust: Experimental Evidence from a Novel Virtual-State Approach</title>
-      <link>http://localhost:1313/event/epsa_2025_n2_paper/</link>
+      <link>https://www.philippckemper.de/event/epsa_2025_n2_paper/</link>
       <pubDate>Thu, 26 Jun 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/epsa_2025_n2_paper/</guid>
+      <guid>https://www.philippckemper.de/event/epsa_2025_n2_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Level up Your Data: A Feasibility Study on Using Video Games for Data Collection in the Experimental Social Sciences</title>
-      <link>http://localhost:1313/event/esra_2025_feasibility_paper/</link>
+      <link>https://www.philippckemper.de/event/esra_2025_feasibility_paper/</link>
       <pubDate>Thu, 17 Jul 2025 09:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/esra_2025_feasibility_paper/</guid>
+      <guid>https://www.philippckemper.de/event/esra_2025_feasibility_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How the Experience of Public-Service Quality and Corruption Shapes Political Solidarity and Trust: Experimental Evidence from a Novel Virtual-State Approach</title>
-      <link>http://localhost:1313/event/esra_2025_n2_paper/</link>
+      <link>https://www.philippckemper.de/event/esra_2025_n2_paper/</link>
       <pubDate>Thu, 17 Jul 2025 13:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/esra_2025_n2_paper/</guid>
+      <guid>https://www.philippckemper.de/event/esra_2025_n2_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://www.philippckemper.de/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://www.philippckemper.de/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -132,9 +132,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>https://www.philippckemper.de/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>https://www.philippckemper.de/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -244,9 +244,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>https://www.philippckemper.de/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>https://www.philippckemper.de/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -257,7 +257,7 @@
 
 
 
-&lt;div id=&#34;chart-374289651&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-485127639&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -275,7 +275,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-374289651&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-485127639&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -454,9 +454,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>https://www.philippckemper.de/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>https://www.philippckemper.de/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -505,7 +505,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://www.philippckemper.de/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -564,9 +564,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>https://www.philippckemper.de/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>https://www.philippckemper.de/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -639,9 +639,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>https://www.philippckemper.de/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>https://www.philippckemper.de/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

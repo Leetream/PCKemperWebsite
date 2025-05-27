@@ -82,6 +82,11 @@ work:
     company_logo: ''
     date_start: 2022-10-01
     date_end: 2024-02-14
+  - position: Intern in public policy evaluation
+    company_name: CEval GmbH
+    company_url: https://ceval.de/
+    date_start: 2023-11-01
+    date_end: 2024-01-31
 
 
 # Skills
@@ -101,17 +106,17 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Past Data Projects
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Board Games
+      - name: Geocoded Agricultural Satellite Data on Human Development
         description: ''
         icon: ''
-      - name: Parkour
+      - name: Escape Room Participant Observation
         description: ''
         icon: ''  
-      - name: Muay Thai
+      - name: Virtual Role-Playing Simulation Games
         description: ''
         icon: ''
 

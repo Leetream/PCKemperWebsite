@@ -37,7 +37,7 @@ sections:
       text: |-
         In my dissertation, I explore the use of video games as virtual simulations of individual real-world experiences in the experimental social sciences. For this, I design role-playing video games specifically tailored for conducting behavioural experiments within an immersive and coherent virtual world. The goal is to understand how video games can be used for experimental manipulations, online data collections, and educational simulations.
         
-        My work as a part of the [POLITSOLID](https://achimgoerres.de/politsolid) research team aims to understand the micro-foundations of politcal solidarities in modern european democracies. We use survey experiments, a simulated virtual state, an international panel survey, and field experiments to explain why and when citizens are willing to shoulder costs for public redistribution.
+        My work as a part of the [POLITSOLID](https://achimgoerres.de/politsolid) research team aims to understand the micro-foundations of political solidarities in modern european democracies. We use survey experiments, a simulated virtual state, an international panel survey, and field experiments to explain why and when citizens are willing to shoulder costs for public redistribution.
         
         Feel free to contact me anytime 😃
     design:
@@ -84,7 +84,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills & Past Projects
       username: admin
     design:
       show_skill_percentage: false
