@@ -1,12 +1,16 @@
 ---
-title: "Welcome to the Video Game Study"
+title: "Willkommen zum Studien-Prototypen"
 url: /demo/
 ---
 
-Thank you for your interest in playing the video game demo and participating in the survey! You'll play a short interactive video game and answer a few questions afterward. The entire process should take about 10–15 minutes.
+Vielen Dank für Ihr Interesse, meine aktuelle Studie zu testen! Sie werden ein kurzes interaktives Videospiel spielen und anschließend werden Ihnen einige Fragen dazu gestellt. Die gesamte Teilnahme sollte etwa 15-20 Minuten dauern.
 
-Please make sure you're using a desktop or laptop computer or a mobile tablet and that you're in a quiet place without distractions.
+Diese Version der Studie wird noch überarbeitet und stellt nicht die finale Version des Videospiels und des Fragebogens dar.
 
-When you're ready, click the button below to begin the study.
+Bitte geben Sie die Zugangsdaten sowie die Inhalte des Videospiels und des Fragebogens weder ganz noch teilweise an Dritte weiter. Vielen Dank.
 
-{{< button href="https://study.philippckemper.de/room/video_game_testing" text="Start the Study" >}}
+Stellen Sie für die Teilnahme bitte sicher, dass Sie einen Desktop- oder Laptop-Computer oder ein mobiles Tablet verwenden und dass Sie sich an einem ruhigen Ort befinden.
+
+Wenn Sie bereit sind, klicken Sie auf die Schaltfläche unten, um zur Studie zu gelangen.
+
+{{< button href="https://study.philippckemper.de/room/video_game_testing" text="Teilnahme beginnen" >}}
