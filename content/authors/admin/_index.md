@@ -36,6 +36,9 @@ profiles:
   - icon: hero/academic-cap
     url: https://www.uni-due.de/politik/kemper_p.php
     label: Personal University Profile
+  - icon: hero/pencil
+    url: https://www.politik-wissenschaft.org/
+    label: Blog
 #  - icon: "custom/bluesky"
 #    url: https://bsky.app/profile/philippck.bsky.social
   - icon: brands/github
