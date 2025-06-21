@@ -1,5 +1,6 @@
 ---
 title: "Welcome to the study"
+url: /demo/en
 ---
 
 Thank you for your interest in testing my current study! You will play a short interactive video game and then you will be asked some questions about it. The entire participation should take about 15-20 minutes.
