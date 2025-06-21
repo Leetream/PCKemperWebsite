@@ -12,4 +12,4 @@ To participate, please ensure that you are using a desktop or laptop computer or
 
 When you are ready, click on the button below to access the study.
 
-{{< button href="https://study.philippckemper.de/room/video_game_testing_english" text="Begin study" >}}
+{{< button href="https://studyen.philippckemper.de/room/video_game_testing_english" text="Begin study" >}}
