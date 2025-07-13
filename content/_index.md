@@ -56,10 +56,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks
+      title: Upcoming Talks
       filters:
         folders:
-          - past_talks
+          - future_talks
     design:
       view: article-grid
       fill_image: false
@@ -67,10 +67,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
-          - future_talks
+          - past_talks
     design:
       view: article-grid
       fill_image: false
