@@ -45,7 +45,7 @@ profiles:
     url: https://github.com/Leetream
     label: GitHub Profile
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/philipp-kemper-2159331ab/
+    url: https://www.linkedin.com/in/philipp-c-kemper-2159331ab/
     label: LinkedIn Profile
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-8559-1287
