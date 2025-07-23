@@ -53,17 +53,17 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
-  - block: collection
-    id: talks
-    content:
-      title: Upcoming Talks
-      filters:
-        folders:
-          - future_talks
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 2
+#  - block: collection
+#    id: talks_future
+#    content:
+#      title: Upcoming Talks
+#      filters:
+#        folders:
+#          - future_talks
+#    design:
+#      view: article-grid
+#      fill_image: false
+#      columns: 2
   - block: collection
     id: talks
     content:
@@ -84,6 +84,16 @@ sections:
     design:
       view: article-grid
       fill_image: false
+      columns: 1
+  - block: collection
+    content:
+      title: Outreach & Media
+      filters:
+        folders:
+          - outreach_media
+    design:
+      view: article-list
+      fill_image: true
       columns: 1
   - block: resume-experience
     content:

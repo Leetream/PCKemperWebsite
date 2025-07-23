@@ -1,0 +1,34 @@
+{{ $link := .RelPermalink }}
+{{ with .Params.external_link }}
+  {{ $link = . }}
+{{ end }}
+
+<article class="article-entry">
+  {{ with .Params.image }}
+    <a href="{{ $link }}" target="_blank" rel="noopener">
+      <img src="{{ .filename | relURL }}" alt="{{ $.Title }}" class="article-image">
+    </a>
+  {{ end }}
+
+  <h3 class="article-title">
+    <a href="{{ $link }}" target="_blank" rel="noopener">
+      {{ .Title }}
+    </a>
+  </h3>
+
+  {{ with .Params.authors }}
+    <p class="article-author">by {{ delimit . ", " }}</p>
+  {{ end }}
+
+  {{ with .Params.tags }}
+    <p class="article-tags">
+      {{ range . }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+    </p>
+  {{ end }}
+
+  {{ with .Summary }}
+    <p class="article-summary">{{ . }}</p>
+  {{ end }}
+</article>
