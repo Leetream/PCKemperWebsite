@@ -2,13 +2,15 @@
 title: "Willkommen zur Studie"
 ---
 
-Vielen Dank für Ihr Interesse, meine aktuelle Studie zu testen! Sie werden ein kurzes interaktives Videospiel spielen und anschließend werden Ihnen einige Fragen dazu gestellt. Die gesamte Teilnahme sollte etwa 15-20 Minuten dauern.
+Vielen Dank für Ihr Interesse, an meiner Studie teilzunehmen! 
 
-Diese Version der Studie wird noch überarbeitet und stellt nicht die finale Version des Videospiels und des Fragebogens dar. Mit Ihrer Teilnahme tragen Sie zur Verbesserung dieser Studie bei. Dafür danke ich Ihnen vielmals.
+Sie werden sich in eine kurz virtuelle Simulation begeben und darn verschiedene Situationen erleben. Anschließend werden Ihnen einige Fragen dazu gestellt. Die gesamte Teilnahme dauert etwa 25 Minuten.
 
 Bitte geben Sie die Zugangsdaten sowie die Inhalte des Videospiels und des Fragebogens weder ganz noch teilweise an Dritte weiter.
 
 Stellen Sie für die Teilnahme bitte sicher, dass Sie einen Desktop- oder Laptop-Computer oder ein mobiles Tablet verwenden und dass Sie sich an einem ruhigen Ort befinden.
+
+Mit Ihrer Teilnahme tragen Sie zum wissenschaftlichen Fortschritt bei. Dafür danke ich Ihnen vielmals.
 
 Wenn Sie bereit sind, klicken Sie auf die Schaltfläche unten, um zur Studie zu gelangen.
 
